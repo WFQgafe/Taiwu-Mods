@@ -1,0 +1,3 @@
+return {
+	SpeedMult = 10,
+}
